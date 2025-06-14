@@ -1,0 +1,11 @@
+E:\Dev_ko\C#\crud\crud\bin\Debug\crud.exe.config
+E:\Dev_ko\C#\crud\crud\bin\Debug\crud.exe
+E:\Dev_ko\C#\crud\crud\bin\Debug\crud.pdb
+E:\Dev_ko\C#\crud\crud\obj\Debug\crud.csproj.AssemblyReference.cache
+E:\Dev_ko\C#\crud\crud\obj\Debug\crud.csproj.SuggestedBindingRedirects.cache
+E:\Dev_ko\C#\crud\crud\obj\Debug\crud.Form1.resources
+E:\Dev_ko\C#\crud\crud\obj\Debug\crud.Properties.Resources.resources
+E:\Dev_ko\C#\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+E:\Dev_ko\C#\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+E:\Dev_ko\C#\crud\crud\obj\Debug\crud.exe
+E:\Dev_ko\C#\crud\crud\obj\Debug\crud.pdb
